@@ -5,7 +5,7 @@ header-img: img/bg-little-universe.jpg
 email: youngchen.pd@gmail.com
 description: ""
 keyword: "Youngchen, 陈阳, Android, Android源码, Framework, 博客"
-url: "https://youngchen.com" # your host, for absolute URL
+url: "http://youngchen.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
